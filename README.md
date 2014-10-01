@@ -9,11 +9,11 @@ Example 1
 ```php
 <?php
 $params = array(
-  'idPerson' => 1,
-  'idAddress' => array(
-    'idAddress' => 1,
-    'txAddress' => '5th Avenue, 1250'
-  )
+    'idPerson' => 1,
+    'idAddress' => array(
+        'idAddress' => 1,
+        'txAddress' => '5th Avenue, 1250'
+    )
 );
 $dto = new \Dto\Mapping\Base($params);
 
