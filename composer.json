@@ -1,0 +1,24 @@
+{
+    "name": "dunice/dto",
+    "type": "library",
+    "description": "A PHP DTO Component to make simple transfer data between application layers",
+    "keywords": ["dto"],
+    "homepage": "http://dunice.com.br",
+    "authors": [
+        {
+            "name": "Hudson Dunice",
+            "email": "dunice@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "doctrine/common": ">=2.2"
+    },
+    "autoload": {
+        "psr-0": { "Dto\\": "" }
+    },
+    "target-dir": "/src/Dto",
+    "minimum-stability": "dev"
+}
