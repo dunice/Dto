@@ -4,7 +4,7 @@ DTO (Data Transfer Objects) is a pattern used to encapsulate data and transfer t
 
 This component allows to create and access DTOs based on arrays and objects.
 
-Example 1 
+Example 
 ---------
 ```php
 <?php
@@ -23,7 +23,7 @@ $dto->getIdAddress()->getIdAddress(); // 1
 $dto->getIdAddress()->getTxAddress(); // 5th Avenue, 1250
 ```
 
-Example 2
+Example
 ---------
 ```php
 <?php
