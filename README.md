@@ -1,6 +1,6 @@
 DTO Component
 ==========
-DTO (Data Transfer Objects) is a pattern used to encapsulate data and transfer them between application layers.
+DTO (Data Transfer Object) is a pattern used to encapsulate data and transfer them between application layers.
 
 This component allows to create and access DTOs based on arrays and objects.
 
