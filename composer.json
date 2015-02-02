@@ -1,6 +1,5 @@
 {
     "name": "dunice/dto",
-    "type": "library",
     "description": "A PHP DTO Component to make simple transfer data between application layers",
     "keywords": ["dto"],
     "homepage": "http://dunice.com.br",
