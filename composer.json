@@ -20,5 +20,4 @@
         "psr-0": { "Dto\\": "" }
     },
     "target-dir": "/src/Dto",
-    "minimum-stability": "dev"
 }
