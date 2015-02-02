@@ -18,5 +18,5 @@
     "autoload": {
         "psr-0": { "Dto\\": "" }
     },
-    "target-dir": "/src/Dto",
+    "target-dir": "/src/Dto"
 }
