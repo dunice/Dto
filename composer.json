@@ -16,7 +16,6 @@
         "doctrine/common": ">=2.2"
     },
     "autoload": {
-        "psr-0": { "Dto\\": "" }
-    },
-    "target-dir": "/src/Dto"
+        "psr-0": { "Dto\\": "src/" }
+    }
 }
